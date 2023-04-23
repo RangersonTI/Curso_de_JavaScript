@@ -11,4 +11,4 @@ let anoNascimento = 2023 - idade
 
 console.log(nome,'tem',idade,'anos, pesa',pesoKilo,'Kg, tem',altura,'metros de altura')
 console.log('e seu IMC é de',IMC)
-console.log(nome,'nasceu em',anoNascimento)
+console.log(`${nome} nasceu em ${anoNascimento}`)
