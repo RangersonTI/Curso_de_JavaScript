@@ -16,5 +16,3 @@ console.log(n4-n3)
 //    *  / Divisão
 //    *  ** Potenciação (Ex.: 4**2 = 16)
 //    *  % Resto de divisão
-
- 
